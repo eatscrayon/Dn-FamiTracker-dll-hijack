@@ -11,7 +11,7 @@ BGGP4 Submission https://binary.golf/
 Size: 19456 bggp4.dll (pretty big for a dll?)
 
 
-Dn-FamiTracker v0.5.0.1 contains and undocumented plugins feature.
+Dn-FamiTracker v0.5.0.1 contains an undocumented plugins feature.
 
 https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker/releases
 
